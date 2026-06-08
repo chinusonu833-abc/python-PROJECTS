@@ -32,7 +32,7 @@ t.penup()
 t.goto(20, 40)
 t.setheading(0)
 t.pendown()
-star(220, "#E1E81E")
+star(220, "#EDF50D")
 
 # Small center star
 t.penup()
